@@ -1,0 +1,12 @@
+C:\Users\labsfiap\Downloads\prova_Estoque_cppp\prova_Estoque_cp_sln\src\Estoque.Core\bin\Debug\net9.0\Estoque.Core.deps.json
+C:\Users\labsfiap\Downloads\prova_Estoque_cppp\prova_Estoque_cp_sln\src\Estoque.Core\bin\Debug\net9.0\Estoque.Core.dll
+C:\Users\labsfiap\Downloads\prova_Estoque_cppp\prova_Estoque_cp_sln\src\Estoque.Core\bin\Debug\net9.0\Estoque.Core.pdb
+C:\Users\labsfiap\Downloads\prova_Estoque_cppp\prova_Estoque_cp_sln\src\Estoque.Core\obj\Debug\net9.0\Estoque.Core.csproj.AssemblyReference.cache
+C:\Users\labsfiap\Downloads\prova_Estoque_cppp\prova_Estoque_cp_sln\src\Estoque.Core\obj\Debug\net9.0\Estoque.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\labsfiap\Downloads\prova_Estoque_cppp\prova_Estoque_cp_sln\src\Estoque.Core\obj\Debug\net9.0\Estoque.Core.AssemblyInfoInputs.cache
+C:\Users\labsfiap\Downloads\prova_Estoque_cppp\prova_Estoque_cp_sln\src\Estoque.Core\obj\Debug\net9.0\Estoque.Core.AssemblyInfo.cs
+C:\Users\labsfiap\Downloads\prova_Estoque_cppp\prova_Estoque_cp_sln\src\Estoque.Core\obj\Debug\net9.0\Estoque.Core.csproj.CoreCompileInputs.cache
+C:\Users\labsfiap\Downloads\prova_Estoque_cppp\prova_Estoque_cp_sln\src\Estoque.Core\obj\Debug\net9.0\Estoque.Core.dll
+C:\Users\labsfiap\Downloads\prova_Estoque_cppp\prova_Estoque_cp_sln\src\Estoque.Core\obj\Debug\net9.0\refint\Estoque.Core.dll
+C:\Users\labsfiap\Downloads\prova_Estoque_cppp\prova_Estoque_cp_sln\src\Estoque.Core\obj\Debug\net9.0\Estoque.Core.pdb
+C:\Users\labsfiap\Downloads\prova_Estoque_cppp\prova_Estoque_cp_sln\src\Estoque.Core\obj\Debug\net9.0\ref\Estoque.Core.dll
