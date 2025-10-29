@@ -32,3 +32,4 @@ C:\Users\labsfiap\Downloads\prova_Estoque_cppp\prova_Estoque_cp_sln\src\Estoque.
 C:\Users\labsfiap\Downloads\prova_Estoque_cppp\prova_Estoque_cp_sln\src\Estoque.Api\obj\Debug\net9.0\Estoque.Api.pdb
 C:\Users\labsfiap\Downloads\prova_Estoque_cppp\prova_Estoque_cp_sln\src\Estoque.Api\obj\Debug\net9.0\Estoque.Api.genruntimeconfig.cache
 C:\Users\labsfiap\Downloads\prova_Estoque_cppp\prova_Estoque_cp_sln\src\Estoque.Api\obj\Debug\net9.0\ref\Estoque.Api.dll
+C:\Users\labsfiap\Downloads\prova_Estoque_cppp\prova_Estoque_cp_sln\src\Estoque.Api\obj\Debug\net9.0\Estoque.Api.sourcelink.json

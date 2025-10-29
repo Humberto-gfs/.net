@@ -10,3 +10,4 @@ C:\Users\labsfiap\Downloads\prova_Estoque_cppp\prova_Estoque_cp_sln\src\Estoque.
 C:\Users\labsfiap\Downloads\prova_Estoque_cppp\prova_Estoque_cp_sln\src\Estoque.Core\obj\Debug\net9.0\refint\Estoque.Core.dll
 C:\Users\labsfiap\Downloads\prova_Estoque_cppp\prova_Estoque_cp_sln\src\Estoque.Core\obj\Debug\net9.0\Estoque.Core.pdb
 C:\Users\labsfiap\Downloads\prova_Estoque_cppp\prova_Estoque_cp_sln\src\Estoque.Core\obj\Debug\net9.0\ref\Estoque.Core.dll
+C:\Users\labsfiap\Downloads\prova_Estoque_cppp\prova_Estoque_cp_sln\src\Estoque.Core\obj\Debug\net9.0\Estoque.Core.sourcelink.json
